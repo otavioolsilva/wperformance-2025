@@ -9,7 +9,7 @@ Set of scripts to perform experiments over three different Python libraries capa
 
 The metrics reported for consideration are: CPU usage, memory peak, number of packets processed and total running time.
 
-These scripts were used in the paper "Performance Evaluation of Python Tools to Capture Packets in Resource-Constrained Devices", submitted to the XXIV Workshop on Performance of Computing and Communication Systems ([WPerformance 2025](https://csbc.sbc.org.br/2025/wperformance/)), part of the 45º Brazilian Computer Society Congress ([CSBC 2025](https://csbc.sbc.org.br/2025/)).
+These scripts were used in the paper "Performance Evaluation of Python Tools to Capture Packets in Resource-Constrained Devices", submitted to the XXIV Workshop on Performance of Computing and Communication Systems ([WPerformance 2025](https://csbc.sbc.org.br/2025/wperformance/)), part of the 45º Brazilian Computer Society Congress ([CSBC 2025](https://csbc.sbc.org.br/2025/)). It can be found in the [WPerformance proceedings, in the SBC Open Library](https://sol.sbc.org.br/index.php/wperformance/article/view/36283).
 
 ### Dependencies
 
