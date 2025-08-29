@@ -33,3 +33,8 @@ To run five iterations of an experiment, run the Bash script `sniff-run.sh` pass
 To define the experiment scenario, uncomment the desired one in this same script and adjust the parameters accordingly.
 
 The Python scripts are configured to sniff the "eth0" interface for 50 seconds, these parameters can be changed in the code. Note that the Scapy and Pypcap + dpkt scripts must be executed with privileged permissions, while in the Pyshark one the user executing it must be on the "wireshark" group.
+
+### Acknowledgments
+
+This research is part of the project "STARLING: Security and Resource Allocation on B5G via Artificial Intelligence Techniques", funded by the São Paulo Research Foundation (FAPESP, proc. [21/06995-0](https://bv.fapesp.br/pt/auxilios/113042/starling-seguranca-e-alocacao-de-recursos-em-b5g-via-tecnicas-de-inteligencia-artificial/)). The development was also carried out with funding from FAPESP, proc. [2024/10240-3](https://bv.fapesp.br/pt/bolsas/219309/deteccao-de-ddos-na-internet-das-coisas-utilizando-metodos-de-aprendizado-de-maquina-com-retreinamen/).
+
